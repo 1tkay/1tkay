@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Kwadwo! 🛡️✈️
 
-<!--
-**1tkay/1tkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineer** graduated from KNUST, currently pivoting into **Cybersecurity and Security Operations (SecOps)**. I actively build lab environments, analyze threats, and practice defensive and offensive security methodologies.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Up To
+- 💼 **Current Role:** AI Operations & Technical Support Officer (NSS) at Ignite AI Africa LBG.
+- 🧪 **Home Lab:** Managing a dedicated **Kali Linux Virtual Machine (VM)** for network security auditing and penetration testing tools.
+- 🎯 **Continuous Learning:** Actively solving security rooms, CTFs, and learning paths on **TryHackMe**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Security Toolbelt & Tech Stack
+- **OS Environments:** Kali Linux, Ubuntu/Linux, Windows Enterprise
+- **Reconnaissance & OSINT:** WHOIS, WhatWeb, cURL, Nmap
+- **Networking & Cloud:** AWS Cloud Security, Network Troubleshooting, Protocols (TCP/IP, DNS, HTTP)
+- **AI Integration:** ChatGPT (SecOps Prompt Engineering), Gamma App
+
+### 📜 Certifications
+- 🔹 Cisco Networking Academy - Introduction to Cybersecurity (2024)
+- 🔹 AWS Academy - Cloud Security Foundations (2025)
+- 🔹 AWS Academy - Cloud Foundations (2025)
+- 🔹 Oracle Academy - JAVA Foundations (2024)
+
+### 🤝 Connect with Me
+- 📧 Email: teekaey1@gmail.com
+- 💼 [LinkedIn](PASTE_YOUR_LINKEDIN_URL_HERE)
+
