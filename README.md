@@ -14,12 +14,12 @@ I am a **Computer Engineer** graduated from KNUST, currently pivoting into **Cyb
 - **AI Integration:** ChatGPT (SecOps Prompt Engineering), Gamma App
 
 ### 📜 Certifications
-- 🔹 Cisco Networking Academy - Introduction to Cybersecurity (2024)
+- 🔹 Great Learning Academy - Introduction to Cybersecurity (2024)
 - 🔹 AWS Academy - Cloud Security Foundations (2025)
 - 🔹 AWS Academy - Cloud Foundations (2025)
 - 🔹 Oracle Academy - JAVA Foundations (2024)
 
 ### 🤝 Connect with Me
 - 📧 Email: teekaey1@gmail.com
-- 💼 [LinkedIn](PASTE_YOUR_LINKEDIN_URL_HERE)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kwadwo-asare-tweneboa-koduah-03097925b)
 
