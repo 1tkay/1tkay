@@ -20,6 +20,6 @@ I am a **Computer Engineer** graduated from KNUST, currently pivoting into **Cyb
 - 🔹 Oracle Academy - JAVA Foundations (2024)
 
 ### 🤝 Connect with Me
-- 📧 Email: teekaey1@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/kwadwo-asare-tweneboa-koduah-03097925b)
+- 📧 [Email]: teekaey1@gmail.com
+- 💼 [LinkedIn]: https://www.linkedin.com/in/kwadwo-asare-tweneboa-koduah-03097925b
 
